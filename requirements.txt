@@ -1,5 +1,5 @@
-dash==2.4.1
+plotly
 pandas
-gunicorn
-numpy
-plotly.express
+dash
+scikit-learn
+dash
